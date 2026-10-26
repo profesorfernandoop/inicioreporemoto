@@ -1,2 +1,2 @@
-# inicioreporemoto
-Ejercicio de ejemplo de clonado de repositorios.
+# Estudio del uso de repositorios remotos
+## Tendremos que clonar este repositorio
